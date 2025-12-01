@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Resultados gerados automaticamente
+mutations_results.csv
+report_resumido_*.csv
+grafico_*.png
+
+# QC outputs
+qc_results/
+
+# Logs e arquivos temporários
+*.log
+*.txt
+
+# Caso gere algum ambiente virtual
+venv/
+env/
