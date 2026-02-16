@@ -71,20 +71,6 @@ C:\Users\marcos\AppData\Local\Programs\Python\Python313\python.exe -m pip instal
 
 ---
 
-## 🚀 How to Run
-
-```bash
-# Step 1 — Check structure
-C:\Users\marcos\AppData\Local\Programs\Python\Python313\python.exe check_files.py
-
-# Step 2 — Detect mutations
-C:\Users\marcos\AppData\Local\Programs\Python\Python313\python.exe detect_mutations.py
-
-# Step 3 — Generate summary and plots
-C:\Users\marcos\AppData\Local\Programs\Python\Python313\python.exe generate_report.py
-```
-
----
 
 ## 📌 Notes
 
