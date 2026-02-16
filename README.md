@@ -46,15 +46,6 @@ The script `generate_report.py` produces:
 - Total mutations per gene (CSV)
 - Mutation distribution plots (PNG)
 
-### ✔ Fully automated pipeline  
-Run the scripts in this order:
-
-```bash
-C:\Users\marcos\AppData\Local\Programs\Python\Python313\python.exe detect_mutations.py
-C:\Users\marcos\AppData\Local\Programs\Python\Python313\python.exe generate_report.py
-```
-
----
 
 ## 🛠 Requirements
 
@@ -62,14 +53,6 @@ C:\Users\marcos\AppData\Local\Programs\Python\Python313\python.exe generate_repo
 - pandas  
 - matplotlib  
 - Biopython
-
-Install dependencies:
-
-```bash
-C:\Users\marcos\AppData\Local\Programs\Python\Python313\python.exe -m pip install pandas matplotlib biopython
-```
-
----
 
 
 ## 📌 Notes
